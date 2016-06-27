@@ -8,5 +8,5 @@ pip list > pip.list
 
 timestamp=$(date)
 git add .
-git commit -m "automated $date"
+git commit -m "automated $timestamp"
 git push origin master
