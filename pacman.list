@@ -33,7 +33,7 @@ gnome-packagekit 3.20.0-2
 grep 2.25-2
 grub 1:2.02.beta2-6
 gtk-xfce-engine 2.10.1-1
-guake 0.8.4-1
+guake 0.8.5-1
 gvfs 1.28.2-1
 gzip 1.8-2
 htop 2.0.1-1
@@ -56,10 +56,10 @@ man-db 2.7.5-2
 man-pages 4.06-1
 mdadm 3.4-1
 mplayer 37857-1
-mps-youtube 0.2.6-2
+mps-youtube 0.2.7-1
 mpv 1:0.18.0-1
 nano 2.6.0-1
-netctl 1.11-1
+netctl 1.12-2
 network-manager-applet 1.2.2-1
 networkmanager 1.2.2-1
 ntfs-3g 2016.2.22-1
@@ -73,8 +73,8 @@ pcmciautils 018-7
 perl 5.24.0-1
 procps-ng 3.3.11-2
 psmisc 22.21-3
-pulseaudio 8.0-3
-pulseaudio-jack 8.0-3
+pulseaudio 9.0-1
+pulseaudio-jack 9.0-1
 python-beautifulsoup4 4.4.1-1
 python-certifi 2016.2.28-1
 python-pip 8.1.2-1
