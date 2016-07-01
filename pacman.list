@@ -34,7 +34,6 @@ grep 2.25-2
 grub 1:2.02.beta2-6
 gtk-xfce-engine 2.10.1-1
 guake 0.8.5-1
-gummi 1:0.6.6-2
 gvfs 1.28.2-1
 gzip 1.8-2
 htop 2.0.1-1
@@ -93,6 +92,7 @@ sysfsutils 2.1.0-9
 systemd-sysvcompat 230-5
 tar 1.29-1
 texinfo 6.1-4
+texlive-core 2015.38835-1
 thunar 1.6.10-3
 thunar-archive-plugin 0.3.1-6
 thunar-volman 0.8.1-2
