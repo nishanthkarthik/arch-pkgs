@@ -4,7 +4,7 @@ adobe-source-serif-pro-fonts 1.017-1
 bash 4.3.042-5
 bash-completion 2.3-4
 bzip2 1.0.6-5
-chromium 51.0.2704.103-1
+chromium 51.0.2704.106-1
 compton 0.1_beta2.5-3
 coreutils 8.25-2
 cryptsetup 1.7.2-1
@@ -58,7 +58,7 @@ mdadm 3.4-1
 mplayer 37857-1
 mps-youtube 0.2.7-1
 mpv 1:0.18.0-1
-nano 2.6.0-1
+nano 2.6.1-1
 netctl 1.12-2
 network-manager-applet 1.2.2-1
 networkmanager 1.2.2-1
