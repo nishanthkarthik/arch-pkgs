@@ -94,6 +94,7 @@ systemd-sysvcompat 230-5
 tar 1.29-1
 texinfo 6.1-4
 texlive-core 2015.38835-1
+texlive-latexextra 2015.38831-1
 thunar 1.6.10-3
 thunar-archive-plugin 0.3.1-6
 thunar-volman 0.8.1-2
