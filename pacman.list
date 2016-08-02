@@ -11,7 +11,7 @@ compton 0.1_beta2.5-3
 coreutils 8.25-2
 cryptsetup 1.7.2-1
 deepin-icon-theme 15.12.28-1
-device-mapper 2.02.161-1
+device-mapper 2.02.162-1
 dhclient 4.3.4-2
 dhcpcd 6.11.1-1
 diffutils 3.3-3
@@ -21,10 +21,10 @@ evince 3.20.1-1
 exo 0.10.7-2
 file 5.28-1
 filesystem 2015.09-1
-findutils 4.6.0-1
+findutils 4.6.0-2
 firefox 47.0.1-1
 garcon 0.4.0-1
-gawk 4.1.3-1
+gawk 4.1.3-2
 gcc 6.1.1-3
 gcc-libs 6.1.1-3
 gdb 7.11.1-1
@@ -33,8 +33,9 @@ gettext 0.19.8.1-2
 git 2.9.2-1
 glibc 2.23-5
 gnome-packagekit 3.20.0-2
+gparted 0.26.1-1
 grep 2.25-2
-grub 1:2.02.beta2-6
+grub 1:2.02.beta3-1
 gtk-xfce-engine 2.10.1-1
 guake 0.8.5-1
 gvfs 1.28.2-1
@@ -54,7 +55,7 @@ linux 4.6.4-1
 linuxdcpp 1.1.0-7
 lm_sensors 3.4.0-1
 logrotate 3.9.2-1
-lvm2 2.02.161-1
+lvm2 2.02.162-1
 man-db 2.7.5-3
 man-pages 4.07-1
 mdadm 3.4-1
@@ -69,7 +70,7 @@ nodejs 6.3.1-1
 npm 3.10.5-1
 ntfs-3g 2016.2.22-1
 numix-themes 2.6.1-1
-openssh 7.2p2-2
+openssh 7.3p1-1
 p7zip 16.02-1
 pacman 5.0.1-4
 pavucontrol 3.0-4
