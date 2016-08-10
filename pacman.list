@@ -13,7 +13,7 @@ cryptsetup 1.7.2-1
 deepin-icon-theme 15.12.28-1
 device-mapper 2.02.162-1
 dhclient 4.3.4-2
-dhcpcd 6.11.1-1
+dhcpcd 6.11.2-1
 diffutils 3.3-3
 e2fsprogs 1.43.1-2
 efibootmgr 0.12.27.g5e9700c-1
@@ -25,13 +25,13 @@ findutils 4.6.0-2
 firefox 48.0-2
 garcon 0.4.0-1
 gawk 4.1.3-2
-gcc 6.1.1-4
-gcc-libs 6.1.1-4
+gcc 6.1.1-5
+gcc-libs 6.1.1-5
 gdb 7.11.1-1
 gedit 3.20.2-1
 gettext 0.19.8.1-2
 git 2.9.2-1
-glibc 2.24-1
+glibc 2.24-2
 gparted 0.26.1-1
 grep 2.25-2
 grub 1:2.02.beta3-3
@@ -82,7 +82,7 @@ psmisc 22.21-3
 pulseaudio 9.0-1
 pulseaudio-jack 9.0-1
 python-beautifulsoup4 4.5.1-1
-python-certifi 2016.8.2-1
+python-certifi 2016.8.8-1
 python-pip 8.1.2-1
 python-requests 2.10.0-1
 qt5-x11extras 5.7.0-1
@@ -92,7 +92,7 @@ s-nail 14.8.9-1
 screenfetch 3.7.0-1
 sed 4.2.2-4
 shadow 4.2.1-3
-sshfs 2.7-1
+sshfs 2.8-1
 sudo 1.8.17.p1-1
 sysfsutils 2.1.0-9
 systemd-sysvcompat 231-1
