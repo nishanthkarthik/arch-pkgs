@@ -86,7 +86,6 @@ pulseaudio 9.0-1
 pulseaudio-jack 9.0-1
 python-beautifulsoup4 4.5.1-1
 python-certifi 2016.8.8-1
-python-matplotlib 1.5.2-2
 python-pip 8.1.2-1
 python-requests 2.10.0-1
 qt5-x11extras 5.7.0-1
