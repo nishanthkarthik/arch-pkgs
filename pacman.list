@@ -10,10 +10,11 @@ chromium 52.0.2743.116-1
 compton 0.1_beta2.5-3
 coreutils 8.25-2
 cryptsetup 1.7.2-1
-deepin-icon-theme 15.12.30-1
+deepin-icon-theme 15.12.31-1
 device-mapper 2.02.164-1
 dhclient 4.3.4-2
 dhcpcd 6.11.3-1
+diffuse 0.4.8-2
 diffutils 3.4-1
 docker 1:1.12.1-1
 e2fsprogs 1.43.1-2
@@ -23,7 +24,7 @@ exo 0.10.7-2
 file 5.28-1
 filesystem 2015.09-1
 findutils 4.6.0-2
-firefox 48.0-2
+firefox 48.0.1-1
 flashplugin 11.2.202.632-1
 garcon 0.4.0-1
 gawk 4.1.3-2
@@ -86,6 +87,7 @@ pulseaudio 9.0-1
 pulseaudio-jack 9.0-1
 python-beautifulsoup4 4.5.1-1
 python-certifi 2016.8.8-1
+python-matplotlib 1.5.2-2
 python-pip 8.1.2-1
 python-requests 2.10.0-1
 qt5-x11extras 5.7.0-1
@@ -97,7 +99,7 @@ sed 4.2.2-4
 shadow 4.2.1-3
 sshfs 2.8-1
 sudo 1.8.17.p1-1
-syncthing 0.14.4-1
+syncthing 0.14.5-1
 sysfsutils 2.1.0-9
 systemd-sysvcompat 231-1
 tar 1.29-1
@@ -120,7 +122,7 @@ xarchiver 0.5.4.7-1
 xf86-input-synaptics 1.8.99.1-1
 xf86-video-amdgpu 1.1.0-1
 xfce4-appfinder 4.12.0-4
-xfce4-notifyd 0.3.0-1
+xfce4-notifyd 0.3.0-2
 xfce4-panel 4.12.0-2
 xfce4-power-manager 1.4.4-2
 xfce4-screenshooter 1.8.2-3
