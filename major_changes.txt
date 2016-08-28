@@ -1,0 +1,1 @@
+softlink ncurses6 to ncurses5 to make matlab run
