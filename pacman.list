@@ -89,6 +89,7 @@ python-beautifulsoup4 4.5.1-1
 python-certifi 2016.8.8-1
 python-pip 8.1.2-1
 python-requests 2.10.0-1
+python-sympy 1.0-1
 qt5-x11extras 5.7.0-1
 reiserfsprogs 3.6.25-1
 ristretto 0.8.0-2
