@@ -58,7 +58,6 @@ linuxdcpp 1.1.0-7
 lm_sensors 3.4.0-1
 logrotate 3.9.2-1
 lvm2 2.02.164-1
-make 4.2.1-1
 man-db 2.7.5-4
 man-pages 4.07-1
 mdadm 3.4-1
@@ -74,7 +73,6 @@ nodejs 6.5.0-1
 npm 3.10.6-1
 ntfs-3g 2016.2.22-1
 numix-themes 2.6.1-1
-octave 4.0.3-1
 openssh 7.3p1-1
 p7zip 16.02-2
 pacman 5.0.1-4
@@ -90,7 +88,6 @@ python-beautifulsoup4 4.5.1-1
 python-certifi 2016.8.8-1
 python-pip 8.1.2-1
 python-requests 2.10.0-1
-python-sympy 1.0-1
 qt5-x11extras 5.7.0-1
 reiserfsprogs 3.6.25-1
 ristretto 0.8.0-2
