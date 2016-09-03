@@ -6,7 +6,7 @@ axel 2.11-1
 bash 4.3.046-1
 bash-completion 2.3-5
 bzip2 1.0.6-5
-chromium 52.0.2743.116-1
+chromium 53.0.2785.92-1
 compton 0.1_beta2.5-3
 coreutils 8.25-2
 cryptsetup 1.7.2-1
@@ -43,7 +43,6 @@ gvfs 1.28.3-1
 gzip 1.8-2
 htop 2.0.2-1
 inetutils 1.9.4-4
-inkscape 0.91-19
 iproute2 4.7.0-1
 iputils 20160308.0db72a4-1
 jfsutils 1.1.15-4
@@ -67,7 +66,7 @@ mpv 1:0.20.0-1
 nano 2.6.3-1
 netctl 1.12-2
 network-manager-applet 1.4.0-1
-networkmanager 1.4.1dev+9+ga3fd485-1
+networkmanager 1.4.1dev+15+g0d23ffd-1
 nmap 7.12-1
 nodejs 6.5.0-1
 npm 3.10.6-1
@@ -85,9 +84,9 @@ psmisc 22.21-3
 pulseaudio 9.0-1
 pulseaudio-jack 9.0-1
 python-beautifulsoup4 4.5.1-1
-python-certifi 2016.8.8-1
+python-certifi 2016.8.31-1
 python-pip 8.1.2-1
-python-requests 2.10.0-1
+python-requests 2.11.1-1
 qt5-x11extras 5.7.0-1
 reiserfsprogs 3.6.25-1
 ristretto 0.8.0-2
@@ -122,7 +121,7 @@ xf86-video-amdgpu 1.1.0-1
 xfce4-appfinder 4.12.0-4
 xfce4-notifyd 0.3.0-2
 xfce4-panel 4.12.0-2
-xfce4-power-manager 1.6.0-1
+xfce4-power-manager 1.6.0-2
 xfce4-screenshooter 1.8.2-3
 xfce4-session 4.12.1-4
 xfce4-settings 4.12.0-5
