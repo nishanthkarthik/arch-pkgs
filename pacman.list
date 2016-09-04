@@ -43,6 +43,7 @@ gvfs 1.28.3-1
 gzip 1.8-2
 htop 2.0.2-1
 inetutils 1.9.4-4
+inkscape 0.91-19
 iproute2 4.7.0-1
 iputils 20160308.0db72a4-1
 jfsutils 1.1.15-4
@@ -63,7 +64,7 @@ mdadm 3.4-1
 mplayer 37857-1
 mps-youtube 0.2.7.1-1
 mpv 1:0.20.0-1
-nano 2.6.3-1
+nano 2.7.0-1
 netctl 1.12-2
 network-manager-applet 1.4.0-1
 networkmanager 1.4.1dev+15+g0d23ffd-1
