@@ -67,7 +67,7 @@ mpv 1:0.20.0-1
 nano 2.7.0-1
 netctl 1.12-2
 network-manager-applet 1.4.0-1
-networkmanager 1.4.1dev+15+g0d23ffd-1
+networkmanager 1.4.1dev+33+gc87b89b-1
 nmap 7.12-1
 nodejs 6.5.0-1
 npm 3.10.6-1
