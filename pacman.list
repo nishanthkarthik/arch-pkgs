@@ -68,11 +68,11 @@ nano 2.7.0-1
 netctl 1.12-2
 network-manager-applet 1.4.0-1
 networkmanager 1.4.1dev+33+gc87b89b-1
-nmap 7.12-1
+nmap 7.12-2
 nodejs 6.6.0-1
 npm 3.10.7-1
 ntfs-3g 2016.2.22-1
-numix-themes 2.6.1-1
+numix-themes 2.6.2-1
 openssh 7.3p1-1
 p7zip 16.02-2
 pacman 5.0.1-4
