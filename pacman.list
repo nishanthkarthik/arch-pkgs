@@ -23,7 +23,7 @@ exo 0.10.7-2
 file 5.28-1
 filesystem 2015.09-1
 findutils 4.6.0-2
-firefox 48.0.2-1
+firefox 49.0-1
 flashplugin 11.2.202.635-1
 garcon 0.4.0-1
 gawk 4.1.4-1
@@ -32,6 +32,7 @@ gcc-libs 6.2.1-1
 gdb 7.11.1-2
 gedit 3.20.2-1
 gettext 0.19.8.1-2
+gimp 2.8.18-1
 git 2.10.0-1
 glibc 2.24-2
 gparted 0.26.1-1
@@ -70,7 +71,7 @@ network-manager-applet 1.4.0-1
 networkmanager 1.4.1dev+33+gc87b89b-1
 nmap 7.12-2
 nodejs 6.6.0-1
-npm 3.10.7-1
+npm 3.10.8-1
 ntfs-3g 2016.2.22-1
 numix-themes 2.6.2-1
 openssh 7.3p1-1
@@ -97,7 +98,7 @@ sed 4.2.2-4
 shadow 4.2.1-3
 sshfs 2.8-1
 sudo 1.8.17.p1-1
-syncthing 0.14.6-1
+syncthing 0.14.7-1
 sysfsutils 2.1.0-9
 systemd-sysvcompat 231-1
 tar 1.29-1
