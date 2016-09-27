@@ -88,7 +88,7 @@ psmisc 22.21-3
 pulseaudio 9.0-1
 pulseaudio-jack 9.0-1
 python-beautifulsoup4 4.5.1-1
-python-certifi 2016.8.31-1
+python-certifi 2016.9.26-1
 python-pip 8.1.2-1
 python-requests 2.11.1-1
 python-sympy 1.0-1
