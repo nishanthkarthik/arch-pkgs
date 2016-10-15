@@ -49,6 +49,7 @@ iproute2 4.8.0-1
 iputils 20160308.0db72a4-1
 jfsutils 1.1.15-4
 less 481-2
+libreoffice-fresh 5.2.2-1
 licenses 20140629-1
 light-locker 1.6.0-3
 lightdm 1:1.18.3-1
@@ -71,7 +72,7 @@ netctl 1.12-2
 network-manager-applet 1.4.2-1
 networkmanager 1.4.2-1
 nmap 7.30-1
-nodejs 6.8.0-1
+nodejs 6.8.1-1
 npm 3.10.8-1
 ntfs-3g 2016.2.22-1
 numix-themes 2.6.4-1
@@ -96,7 +97,7 @@ python-sympy 1.0-1
 qt5-x11extras 5.7.0-1
 reiserfsprogs 3.6.25-1
 ristretto 0.8.1-1
-s-nail 14.8.10-1
+s-nail 14.8.12-1
 screenfetch 3.7.0-1
 sed 4.2.2-4
 shadow 4.2.1-3
