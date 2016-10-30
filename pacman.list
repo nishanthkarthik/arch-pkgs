@@ -15,16 +15,16 @@ device-mapper 2.02.166-1
 dhclient 4.3.5-1
 dhcpcd 6.11.3-1
 diffutils 3.5-1
-docker 1:1.12.2-1
+docker 1:1.12.3-1
 e2fsprogs 1.43.3-1
 efibootmgr 14-1
 evince 3.22.1-1
 exo 0.10.7-2
-file 5.28-1
+file 5.29-1
 filesystem 2015.09-1
 findutils 4.6.0-2
 firefox 49.0.2-1
-flashplugin 11.2.202.637-1
+flashplugin 11.2.202.643-1
 garcon 0.4.0-1
 gawk 4.1.4-1
 gcc 6.2.1-1
@@ -48,7 +48,7 @@ inkscape 0.91-19
 iproute2 4.8.0-1
 iputils 20160308.0db72a4-1
 jfsutils 1.1.15-4
-less 481-2
+less 487-1
 libreoffice-fresh 5.2.2-2
 licenses 20140629-1
 light-locker 1.6.0-3
@@ -95,7 +95,7 @@ python-requests 2.11.1-1
 qt5-x11extras 5.7.0-1
 reiserfsprogs 3.6.25-1
 ristretto 0.8.1-1
-s-nail 14.8.12-1
+s-nail 14.8.14-1
 screenfetch 3.7.0-1
 sed 4.2.2-4
 shadow 4.2.1-3
