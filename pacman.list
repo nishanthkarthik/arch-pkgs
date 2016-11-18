@@ -65,7 +65,6 @@ make 4.2.1-1
 man-db 2.7.5-4
 man-pages 4.08-1
 mdadm 3.4-1
-mesa-demos 8.3.0-2
 mplayer 37857-1
 mps-youtube 0.2.7.1-1
 mpv 1:0.21.0-2
@@ -78,8 +77,6 @@ nodejs 7.1.0-1
 npm 4.0.2-1
 ntfs-3g 2016.2.22-1
 numix-themes 2.6.5-1
-opencl-headers 2:2.1.20151224-1
-opencl-mesa 13.0.1-1
 openssh 7.3p1-2
 p7zip 16.02-2
 pacman 5.0.1-4
@@ -95,7 +92,6 @@ pulseaudio-jack 9.0-1
 python-beautifulsoup4 4.5.1-1
 python-certifi 2016.9.26-1
 python-pip 8.1.2-1
-python-pyopencl 1:2016.2-1
 python-requests 2.11.1-1
 qt5-x11extras 5.7.0-1
 reiserfsprogs 3.6.25-1
