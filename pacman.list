@@ -6,9 +6,9 @@ axel 2.11-1
 bash 4.4.005-1
 bash-completion 2.4-1
 bzip2 1.0.6-5
-chromium 54.0.2840.100-1
+chromium 55.0.2883.75-1
 cmus 2.7.1-8
-compton 0.1_beta2.5-3
+compton 0.1_beta2.5-4
 coreutils 8.25-2
 cryptsetup 1.7.3-1
 deepin-icon-theme 15.12.32-1
@@ -75,7 +75,7 @@ network-manager-applet 1.4.2-1
 networkmanager 1.4.2-2
 nmap 7.31-1
 nodejs 7.2.0-2
-npm 4.0.2-1
+npm 4.0.3-1
 ntfs-3g 2016.2.22-1
 numix-themes 2.6.5-1
 openssh 7.3p1-2
