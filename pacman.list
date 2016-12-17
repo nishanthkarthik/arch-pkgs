@@ -2,12 +2,12 @@ adobe-source-code-pro-fonts 2.030ro+1.050it-1
 adobe-source-sans-pro-fonts 2.020ro+1.075it-1
 adobe-source-serif-pro-fonts 1.017-1
 android-file-transfer 3.0-2
-axel 2.11-1
 bash 4.4.005-1
 bash-completion 2.4-1
 bzip2 1.0.6-5
 catfish 1.4.2-2
 chromium 55.0.2883.87-1
+clang 3.9.0-3
 cmus 2.7.1-8
 compton 0.1_beta2.5-4
 coreutils 8.26-1
@@ -89,9 +89,10 @@ procps-ng 3.3.12-1
 psmisc 22.21-3
 puddletag 1.2.0-1
 pulseaudio 9.0-1
+python-beautifulsoup4 4.5.1-1
 python-certifi 2016.9.26-1
 python-pip 8.1.2-1
-python-requests 2.12.3-1
+python-requests 2.12.4-1
 qt5-x11extras 5.7.0-1
 reiserfsprogs 3.6.25-1
 ristretto 0.8.1-1
