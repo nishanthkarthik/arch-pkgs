@@ -1,6 +1,6 @@
-adobe-source-code-pro-fonts 2.030ro+1.050it-1
-adobe-source-sans-pro-fonts 2.020ro+1.075it-1
-adobe-source-serif-pro-fonts 1.017-1
+adobe-source-code-pro-fonts 2.030ro+1.050it-3
+adobe-source-sans-pro-fonts 2.020ro+1.075it-2
+adobe-source-serif-pro-fonts 1.017-2
 android-file-transfer 3.0-2
 aria2 1.30.0-1
 axel 2.12-1
@@ -59,7 +59,7 @@ less 487-1
 libreoffice-fresh 5.2.4-2
 licenses 20140629-1
 light-locker 1.6.0-3
-lightdm 1:1.18.3-1
+lightdm 1:1.20.0-2
 lightdm-gtk-greeter 1:2.0.2-1
 lightdm-gtk-greeter-settings 1.2.1-5
 linux 4.8.13-1
@@ -106,7 +106,7 @@ ristretto 0.8.1-1
 rsync 3.1.2-2
 s-nail 14.8.14-1
 screenfetch 3.7.0-1
-sed 4.2.2-4
+sed 4.3-1
 shadow 4.4-3
 speedcrunch 0.12.0-1
 sqliteman 1.2.2-10
