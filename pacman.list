@@ -6,6 +6,7 @@ aria2 1.30.0-1
 axel 2.12-1
 bash 4.4.005-2
 bash-completion 2.4-1
+brasero 3.12.1-2
 bzip2 1.0.6-5
 catfish 1.4.2-3
 chromium 55.0.2883.87-1
@@ -154,5 +155,5 @@ xfwm4 4.12.3-2
 xfwm4-themes 4.10.0-2
 xorg-server 1.19.1-1
 xorg-server-utils 7.6-4
-youtube-dl 2017.01.10-1
+youtube-dl 2017.01.14-1
 zip 3.0-7
