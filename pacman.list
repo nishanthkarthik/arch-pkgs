@@ -1,6 +1,6 @@
 adobe-source-code-pro-fonts 2.030ro+1.050it-3
 adobe-source-sans-pro-fonts 2.020ro+1.075it-2
-adobe-source-serif-pro-fonts 1.017-2
+adobe-source-serif-pro-fonts 2.000-1
 aria2 1.31.0-1
 axel 2.12-1
 bash 4.4.005-2
@@ -91,7 +91,7 @@ pacman 5.0.1-4
 pavucontrol 3.0-4
 pciutils 3.5.2-1
 pcmciautils 018-7
-perl 5.24.0-2
+perl 5.24.1-1
 procps-ng 3.3.12-1
 psmisc 22.21-3
 puddletag 1.2.0-1
@@ -111,7 +111,7 @@ shadow 4.4-3
 speedcrunch 0.12.0-1
 sqliteman 1.2.2-10
 sshfs 2.8-1
-sudo 1.8.19.p1-1
+sudo 1.8.19.p2-1
 syncthing 0.14.19-1
 sysfsutils 2.1.0-9
 systemd-sysvcompat 232-7
@@ -154,5 +154,5 @@ xfwm4 4.12.3-2
 xfwm4-themes 4.10.0-2
 xorg-server 1.19.1-1
 xorg-server-utils 7.6-4
-youtube-dl 2017.01.16-1
+youtube-dl 2017.01.22-1
 zip 3.0-7
