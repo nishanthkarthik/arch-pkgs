@@ -95,6 +95,7 @@ nmap 7.40-1
 noto-fonts 20170112-1
 ntfs-3g 2016.2.22-1
 numix-themes 2.6.5-1
+opencl-mesa 13.0.4-1
 openmp 3.9.1-1
 openssh 7.4p1-2
 p7zip 16.02-2
@@ -127,7 +128,7 @@ sshfs 2.8-1
 sudo 1.8.19.p2-1
 syncthing 0.14.21-1
 sysfsutils 2.1.0-9
-systemd-sysvcompat 232-7
+systemd-sysvcompat 232-8
 tar 1.29-2
 texinfo 6.3-1
 texlive-core 2016.42515-2
@@ -143,7 +144,7 @@ ufw 0.35-2
 unetbootin 625-1
 unzip 6.0-12
 usbutils 008-1
-util-linux 2.29-2
+util-linux 2.29.1-1
 vi 1:070224-2
 virtualbox 5.1.14-1
 wget 1.18-3
