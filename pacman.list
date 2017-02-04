@@ -10,7 +10,7 @@ bluez-utils 5.43-2
 broadcom-wl-dkms 6.30.223.271-11
 bzip2 1.0.6-5
 catfish 1.4.2-3
-chromium 56.0.2924.76-1
+chromium 56.0.2924.87-1
 clang 3.9.1-2
 cmus 2.7.1-8
 compton 0.1_beta2.5-4
@@ -25,7 +25,7 @@ dhcpcd 6.11.5-1
 diffutils 3.5-1
 dosfstools 4.0-3
 driconf 0.9.1-11
-e2fsprogs 1.43.3-1
+e2fsprogs 1.43.4-1
 efibootmgr 14-2
 evince 3.22.1-1
 exo 0.10.7-2
@@ -46,7 +46,7 @@ gdb 7.12.1-1
 gedit 3.22.0+4+g2c70ccb86-1
 gettext 0.19.8.1-2
 gimp 2.8.18-4
-git 2.11.0-2
+git 2.11.1-1
 glibc 2.24-2
 gnuplot 5.0.5-2
 gparted 0.27.0-1
@@ -99,7 +99,7 @@ opencl-mesa 13.0.4-1
 openmp 3.9.1-1
 openssh 7.4p1-2
 p7zip 16.02-2
-pacaur 4.6.10-1
+pacaur 4.7.1-1
 pacman 5.0.1-4
 pavucontrol 3.0-4
 pciutils 3.5.2-1
@@ -116,7 +116,7 @@ python-pip 9.0.1-2
 python-requests 2.13.0-1
 qt5-x11extras 5.8.0-1
 reiserfsprogs 3.6.25-1
-ristretto 0.8.1-1
+ristretto 0.8.2-1
 rsync 3.1.2-2
 s-nail 14.8.16-1
 screenfetch 3.7.0-1
@@ -170,5 +170,5 @@ xfwm4-themes 4.10.0-2
 xorg-server 1.19.1-1
 xorg-server-utils 7.6-4
 yajl 2.1.0-1
-youtube-dl 2017.01.29-1
+youtube-dl 2017.02.01-1
 zip 3.0-7
