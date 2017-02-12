@@ -32,7 +32,7 @@ exo 0.10.7-2
 expac 8-1
 fakeroot 1.21-2
 fiddler 4.4.8.4-1
-file 5.29-1
+file 5.30-1
 filesystem 2016.12-2
 findutils 4.6.0-2
 firefox 51.0.1-1
@@ -50,7 +50,7 @@ git 2.11.1-1
 glibc 2.24-2
 gnuplot 5.0.5-2
 gparted 0.27.0-1
-grep 2.27-1
+grep 3.0-1
 grub 1:2.02.rc1-1
 gtk-xfce-engine 2.10.1-1
 guake 0.8.8-1
@@ -66,7 +66,7 @@ iproute2 4.9.0-1
 iputils 20161105.1f2bb12-1
 jfsutils 1.1.15-4
 less 487-1
-libreoffice-fresh 5.3.0-1
+libreoffice-fresh 5.3.0-2
 licenses 20140629-1
 light-locker 1.6.0-3
 lightdm 1:1.20.0-2
@@ -85,7 +85,7 @@ man-pages 4.09-1
 mdadm 3.4-1
 mplayer 37916-1
 mps-youtube 0.2.7.1-2
-mpv 1:0.23.0-3
+mpv 1:0.23.0-4
 mutt 1.7.2-1
 nano 2.7.4-1
 netctl 1.12-2
@@ -99,7 +99,7 @@ opencl-mesa 13.0.4-1
 openmp 3.9.1-1
 openssh 7.4p1-2
 p7zip 16.02-3
-pacaur 4.7.2-1
+pacaur 4.7.3-1
 pacman 5.0.1-4
 pavucontrol 3.0-4
 pciutils 3.5.2-1
@@ -120,7 +120,7 @@ ristretto 0.8.2-1
 rsync 3.1.2-2
 s-nail 14.8.16-1
 screenfetch 3.7.0-1
-sed 4.3-1
+sed 4.4-1
 shadow 4.4-3
 speedcrunch 0.12.0-1
 sqliteman 1.2.2-10
@@ -133,7 +133,7 @@ tar 1.29-2
 texinfo 6.3-1
 texlive-core 2016.42515-2
 texlive-latexextra 2016.42294-1
-thunar 1.6.10.174.g35e65ab0-1
+thunar 1.6.10.177.g97b3ae5c-1
 thunar-archive-plugin 0.3.1-6
 thunar-volman 0.8.1-2
 tk 8.6.6-1
@@ -167,8 +167,8 @@ xfdesktop 4.12.3-3
 xfsprogs 4.9.0-1
 xfwm4 4.12.3-2
 xfwm4-themes 4.10.0-2
-xorg-server 1.19.1-1
+xorg-server 1.19.1-2
 xorg-server-utils 7.6-4
 yajl 2.1.0-1
-youtube-dl 2017.02.07-1
+youtube-dl 2017.02.11-1
 zip 3.0-7
