@@ -5,8 +5,9 @@ aria2 1.31.0-1
 axel 2.12-1
 bash 4.4.012-2
 bash-completion 2.5-1
-bluez 5.43-2
-bluez-utils 5.43-2
+bless 0.6.0-4
+bluez 5.44-1
+bluez-utils 5.44-1
 broadcom-wl-dkms 6.30.223.271-11
 bzip2 1.0.6-6
 catfish 1.4.2-3
@@ -93,7 +94,6 @@ nmap 7.40-1
 noto-fonts 20170112-1
 ntfs-3g 2016.2.22-2
 numix-gtk-theme 2.6.6-1
-opencl-mesa 17.0.0-2
 openmp 3.9.1-1
 openssh 7.4p1-2
 p7zip 16.02-3
@@ -113,6 +113,7 @@ python-certifi 2017.1.23-1
 python-pip 9.0.1-2
 python-requests 2.13.0-1
 qt5-x11extras 5.8.0-1
+recoll 1.22.4-3
 reiserfsprogs 3.6.25-1
 ristretto 0.8.2-1
 rsync 3.1.2-2
@@ -121,7 +122,7 @@ screenfetch 3.7.0-1
 sed 4.4-1
 shadow 4.4-3
 speedcrunch 0.12.0-1
-sqliteman 1.2.2-10
+sqliteman 1.2.2-11
 sshfs 2.8-1
 sudo 1.8.19.p2-1
 syncthing 0.14.23-1
@@ -168,5 +169,5 @@ xfwm4-themes 4.10.0-2
 xorg-server 1.19.1-5
 xorg-server-utils 7.6-4
 yajl 2.1.0-1
-youtube-dl 2017.02.24-1
+youtube-dl 2017.03.02-1
 zip 3.0-7
