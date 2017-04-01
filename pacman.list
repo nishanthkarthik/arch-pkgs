@@ -10,7 +10,7 @@ bluez-utils 5.44-1
 broadcom-wl-dkms 6.30.223.271-11
 bzip2 1.0.6-6
 catfish 1.4.2-3
-chromium 57.0.2987.110-1
+chromium 57.0.2987.133-1
 clang 3.9.1-2
 cmus 2.7.1-8
 compton 0.1_beta2.5-4
@@ -33,9 +33,9 @@ fakeroot 1.21-2
 fiddler 4.4.8.4-1
 file 5.30-1
 file-roller 3.22.3-1
-filesystem 2016.12-2
+filesystem 2017.03-2
 findutils 4.6.0-2
-firefox 52.0.1-2
+firefox 52.0.2-1
 garcon 0.4.0-1
 gawk 4.1.4-2
 gcc 6.3.1-2
@@ -47,7 +47,7 @@ gettext 0.19.8.1-2
 gimp 2.8.20-1
 git 2.12.1-1
 glibc 2.25-1
-gnuplot 5.0.5-2
+gnuplot 5.0.6-1
 gparted 0.28.1-1
 grep 3.0-1
 grub 1:2.02.rc2-1
@@ -71,8 +71,8 @@ light-locker 1.6.0-3
 lightdm 1:1.22.0-1
 lightdm-gtk-greeter 1:2.0.2-1
 lightdm-gtk-greeter-settings 1.2.1-5
-linux 4.10.5-1
-linux-headers 4.10.5-1
+linux 4.10.6-1
+linux-headers 4.10.6-1
 linuxdcpp 1.1.0-7
 lm_sensors 3.4.0-2
 logrotate 3.11.0-1
@@ -92,14 +92,14 @@ network-manager-applet 1.4.6-1
 networkmanager 1.6.2-3
 nmap 7.40-1
 noto-fonts 20170307-2
-ntfs-3g 2016.2.22-2
+ntfs-3g 2017.3.23-1
 numix-gtk-theme 2.6.6-1
-opencl-mesa 17.0.1-2
 openmp 3.9.1-1
 openssh 7.4p1-2
 p7zip 16.02-3
 pacaur 4.7.6-1
 pacman 5.0.1-4
+paraview-bin 5.3.0-1
 pavucontrol 3.0-4
 pciutils 3.5.4-1
 pcmciautils 018-7
@@ -143,7 +143,7 @@ ufw 0.35-2
 unetbootin 625-1
 unzip 6.0-12
 usbutils 008-1
-util-linux 2.29.2-1
+util-linux 2.29.2-2
 valgrind 3.12.0-2
 vi 1:070224-2
 virtualbox 5.1.18-1
@@ -169,5 +169,5 @@ xfwm4-themes 4.10.0-2
 xorg-server 1.19.3-1
 xorg-server-utils 7.6-4
 yajl 2.1.0-1
-youtube-dl 2017.03.24-1
+youtube-dl 2017.03.26-1
 zip 3.0-7
