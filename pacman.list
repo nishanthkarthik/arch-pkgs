@@ -2,6 +2,8 @@ adobe-source-code-pro-fonts 2.030ro+1.050it-3
 adobe-source-sans-pro-fonts 2.020ro+1.075it-2
 adobe-source-serif-pro-fonts 2.000-1
 android-tools 7.1.2_r6-1
+arc-gtk-theme 20170302-2
+arc-icon-theme 20161122-1
 aria2 1.32.0-1
 axel 2.12-2
 bash 4.4.012-2
@@ -51,6 +53,7 @@ gnuplot 5.0.6-1
 gparted 0.28.1-1
 grep 3.0-1
 grub 2:2.02-1
+gtk-engine-murrine 0.98.2-2
 gtk-xfce-engine 2.10.1-1
 guake 0.8.8-1
 gvfs 1.32.1-1
@@ -71,8 +74,8 @@ light-locker 1.6.0-3
 lightdm 1:1.22.0-1
 lightdm-gtk-greeter 1:2.0.2-1
 lightdm-gtk-greeter-settings 1.2.1-5
-linux 4.11.2-1
-linux-headers 4.11.2-1
+linux 4.11.3-1
+linux-headers 4.11.3-1
 linuxdcpp 1.1.0-7
 lm_sensors 3.4.0-2
 logrotate 3.12.2-1
@@ -85,7 +88,7 @@ mdadm 4.0-1
 mplayer 37916-2
 mps-youtube 0.2.7.1-2
 mpv 1:0.25.0-3
-mutt 1.8.2-2
+mutt 1.8.3-1
 nano 2.8.2-1
 netctl 1.12-2
 network-manager-applet 1.8.0-1
@@ -95,7 +98,9 @@ noto-fonts 20170428-1
 ntfs-3g 2017.3.23-1
 numix-gtk-theme 2.6.6-1
 openmp 4.0.0-1
+openmpi 1.10.6-2
 openssh 7.5p1-2
+otf-overpass 3.0.2-1
 p7zip 16.02-3
 pacaur 4.7.8-1
 pacman 5.0.1-5
@@ -123,8 +128,8 @@ shadow 4.4-3
 speedcrunch 0.12.0-1
 sqliteman 1.2.2-11
 sshfs 2.9-1
-sudo 1.8.20-1
-syncthing 0.14.28-1
+sudo 1.8.20.p1-1
+syncthing 0.14.29-1
 sysfsutils 2.1.0-9
 systemd-sysvcompat 232-8
 tar 1.29-2
