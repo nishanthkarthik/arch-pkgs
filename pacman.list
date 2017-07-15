@@ -16,10 +16,8 @@ cmus 2.7.1-8
 compton 0.1_beta2.5-8
 coreutils 8.27-1
 cower 17-2
-cppreference-devhelp 20170409-1
 crda 3.18-1
 cryptsetup 1.7.5-1
-devhelp 3.24.0+7+gefb59e2-1
 device-mapper 2.02.172-2
 dhclient 4.3.5-2
 dhcpcd 6.11.5-1
@@ -175,4 +173,5 @@ xfwm4-themes 4.10.0-2
 xorg-server 1.19.3-2
 yajl 2.1.0-1
 youtube-dl 2017.07.15-1
+zeal 1:0.3.1-2
 zip 3.0-7
